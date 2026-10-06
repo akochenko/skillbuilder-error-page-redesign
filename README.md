@@ -2,7 +2,7 @@
 
 > **Unofficial.** Independent student project, not affiliated with or endorsed by Amazon Web Services. Built with the open-source [Cloudscape Design System](https://cloudscape.design). Buttons are inactive.
 
-**Live concept:** _add GitHub Pages link here_
+**Live concept:** https://akochenko.github.io/skillbuilder-error-page-redesign/
 
 ![Before and after](docs/before-after.png)
 
